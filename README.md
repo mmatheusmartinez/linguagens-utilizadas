@@ -1,6 +1,6 @@
-### Estudo sobre a biblioteca Requests do Python -----
+### Estudo sobre a biblioteca Requests do Python 
 
-# Aprender a: 
+# Foco em: 
     # Utilizar a biblioteca Requests para alimentar os dados por meio de API 
     # Requisições GET, POST, PUT, DELETE utilizando a biblioteca requests
     # Extrair e transformar (ETC) dados no formato .json 
